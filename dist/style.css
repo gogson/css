@@ -542,3 +542,27 @@
 .text-h6 {
   font-size: 16px;
   letter-spacing: .04em; }
+
+.b-t {
+  border-top: 1px solid #e0e0e0 !important; }
+
+.b-t-0 {
+  border-top: none !important; }
+
+.b-r {
+  border-right: 1px solid #e0e0e0 !important; }
+
+.b-r-0 {
+  border-right: none !important; }
+
+.b-b {
+  border-bottom: 1px solid #e0e0e0 !important; }
+
+.b-b-0 {
+  border-bottom: none !important; }
+
+.b-l {
+  border-left: 1px solid #e0e0e0 !important; }
+
+.b-l-0 {
+  border-left: none !important; }
