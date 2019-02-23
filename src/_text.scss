@@ -125,3 +125,11 @@
 @for $i from 0 through 30 {
   .font-#{10 + $i} { font-size: #{$i + 10}px !important; }
 }
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+.open-sans {
+  font-family: 'Open Sans', sans-serif;
+}

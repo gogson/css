@@ -688,6 +688,12 @@ body {
 .font-40 {
   font-size: 40px !important; }
 
+.roboto {
+  font-family: 'Roboto', sans-serif; }
+
+.open-sans {
+  font-family: 'Open Sans', sans-serif; }
+
 .b-t {
   border-top: 1px solid #e0e0e0 !important; }
 
